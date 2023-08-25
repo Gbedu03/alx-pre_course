@@ -1,1 +1,1 @@
-My first readme
+Learning ALX is not easy
